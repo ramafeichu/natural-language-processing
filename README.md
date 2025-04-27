@@ -1,6 +1,6 @@
 # Natural Language Processing - Portfolio
 
-![Banner](./banner.png)
+![Banner](./banner.jpeg)
 
 Bienvenidos a mi portfolio de la materia **Natural Language Processing**.  
 Aquí encontrarán todos los desafíos realizados durante el curso, con una breve descripción de cada uno y acceso directo a los notebooks correspondientes.
